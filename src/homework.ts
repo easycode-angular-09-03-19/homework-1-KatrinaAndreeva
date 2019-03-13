@@ -69,10 +69,10 @@ class NewCar extends Car{
     }
     public get fuel(): number{
     return this._fuel;
-}
+    }
     public get mileage(): number{
     return this._mileage;
-}
+    }
 }
 
 //2.3.Создать публичный get для получения свойств fuel и mileage.
