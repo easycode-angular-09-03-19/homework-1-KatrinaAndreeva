@@ -1,11 +1,11 @@
 {
     "compilerOptions": {
-        "target": "ES2015",
-        "module": "commonjs",
-        "rootDir": "./src",
-        "outDir": "./build",
-        "watch": true,
-        "noEmitOnError": true,
-        "esModuleInterop": true
-    }
-}
+      "target": "ES2015",
+      "module": "commonjs",
+      "outDir": "./build",
+      "rootDir": "./src",
+      "esModuleInterop": true,
+      "noEmitOnError": true, 
+      "watch": true  }
+  }
+  
